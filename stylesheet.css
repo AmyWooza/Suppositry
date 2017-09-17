@@ -1,0 +1,26 @@
+body {
+	background-color: #27D546;
+}
+
+h1 {
+	color: blue;
+	font-family: ComicSans;
+}
+
+p {
+	color: black;
+	font-family: Helvetica;
+	font-size: 12px;
+}
+
+.ptype {
+	font-size: 16px;
+	font-family: serif;
+}
+.imgstyle {
+width: 400px;
+}
+
+#different {
+	color: red;
+}
